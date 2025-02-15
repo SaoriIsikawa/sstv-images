@@ -1,1 +1,1 @@
-# SSTV Images
+# 自己接收到的 SSTV 图像存档
